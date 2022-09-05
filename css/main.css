@@ -1,0 +1,192 @@
+body{
+          margin: 0%;
+}
+div>div.header{
+           width: 100%;
+           height: 270px;
+           background-color: lightsalmon;
+}
+
+div.header img {
+           width: 100%;
+           height: 200px;
+}
+
+div.header h1{
+           color: darkred;
+           margin-top:15px;
+           padding-left:28px;
+}
+div.search{
+           width: 100%;
+           height: 40px;
+           background-color: #F7EDDB;
+           
+}
+
+div.search h1{
+            font-size: 20px;
+            padding: 10px;
+            margin: 0%;
+}
+ 
+div.menu{
+           width: 100%;
+           height: 60px;
+           background-color: #F2D7D9;
+}
+
+div.menu ul{
+           margin: 0%;
+}
+div.menu li{
+            display: inline-block;
+            margin-top:20px;
+}
+div.menu a{
+            color: black;
+            font-size: 25px;
+}
+div.slider{
+            width: 100%;
+            height: 100px;
+            background-color: #FAFDD6;
+}
+div.slider h1{
+            color: darkslategray;
+            padding:30px;
+            margin: 0%;
+}
+div.shegeftangiz{
+            width: 100%;
+            height: 150px;
+            background-color: #E4E9BE;
+                     
+}
+div.shegeftangiz h1{
+            color: #1C6758;
+            margin: 0%;
+            padding: 40px;
+}
+div.categorys { 
+            width: 100%;
+            height: 70px;
+            background-color: #F7EDDB;
+}
+div.categorys ul{
+            margin: 0%;
+}
+div.categorys li{
+             display: inline-block;
+             margin-top: 20px;
+             padding-left:5px;
+}
+div.categorys a{
+             color:#86003C;
+             font-size: 25px;
+}      
+div.suggestions{
+             width: 100%;
+             height: 100px;
+             background-color: #F5C0C0;
+}
+div.suggestions h1{
+             color: #980F5A;
+             margin:0%;
+             padding: 30px;
+}
+div.favorite_brands{
+             width: 100%;
+             height: 100px;
+             background-color: #D3CEDF;
+}
+div.favorite_brands h1{
+             color: rgb(42, 3, 52);
+             margin: 0%;
+             padding: 30px;
+}
+div.plus{    
+             width: 100%;
+             height: 100%;
+             background-color: #FFEEAF;
+}
+div.plus h1{
+            color: #1F4690;
+            margin: 0%;
+            padding: 30px;
+}
+div.club{
+            width: 100%;
+            height: 100px;
+            background-color: #8bf1af;
+}
+div.club h1{
+            color: #074202;
+            margin: 0%;
+            padding:30px;
+}
+div.best_sellings{
+            width: 100%;
+            height: 100px;
+            background-color: #ECCCB2;
+}
+div.best_sellings h1{
+            color: #AC7088;
+            margin: 0%;
+            padding:30px ;
+}
+div.sale{
+            width: 100%;
+            height: 100px;
+            background-color: #F1A661;
+}
+div.sale h1{
+            color: #E38B29;
+            margin: 0%;
+            padding: 30px;
+}
+div.readings{
+             width: 100%;
+             height: 120px;
+             background-color: #AC7088;
+}
+div.readings h1{
+              color: #370119;
+              margin: 0%;
+              padding: 30px;
+}
+div.about{
+              width: 100%;
+              height: 200px;
+              background-color: burlywood;
+}
+div.about h1{
+              color: chocolate;
+              margin: 0%;
+              padding: 30px;
+}
+div.contact{
+              width: 100%;
+              height: 80px;
+              background-color: lightslategray;
+}
+div.contact h1{
+               color: black;
+               margin: 0%;
+               padding: 25px;
+}
+div.footer{
+               width: 100%;
+               height: 60px;
+               background-color: #1C6758;
+}
+div.footer h1{
+               color: #074202;
+               margin: 0%;
+               padding: 20px;
+}
+div.footer hr{
+               width: 70%;
+               height: 15px;
+               background-color: #370119;
+}
